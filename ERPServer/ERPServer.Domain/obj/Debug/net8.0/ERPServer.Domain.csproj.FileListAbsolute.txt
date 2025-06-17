@@ -1,0 +1,13 @@
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\bin\Debug\net8.0\ERPServer.Domain.deps.json
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\bin\Debug\net8.0\ERPServer.Domain.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\bin\Debug\net8.0\ERPServer.Domain.pdb
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.csproj.AssemblyReference.cache
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.AssemblyInfoInputs.cache
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.AssemblyInfo.cs
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.sourcelink.json
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\refint\ERPServer.Domain.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.pdb
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ref\ERPServer.Domain.dll
