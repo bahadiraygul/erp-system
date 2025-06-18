@@ -48,6 +48,12 @@ C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0
 C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\NuGet.Versioning.dll
 C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\Scrutor.dll
 C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Bahadır\Desktop\erp-system\ERPServer\ERPServer.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll

@@ -16,6 +16,8 @@ namespace ERPServer.Infrastructure.Context
 
         public DbSet<Depot> Depots { get; set; } = null!;
 
+        public DbSet<Product> Products { get; set; } = null!;
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfigurationsFromAssembly(typeof(DependencyInjection).Assembly);
