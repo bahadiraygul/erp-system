@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERPServer.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de103192526ca5778bdc39fb6ade643a92d20a18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1133fed1590332b39f3bfb09537740343642a2ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERPServer.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERPServer.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

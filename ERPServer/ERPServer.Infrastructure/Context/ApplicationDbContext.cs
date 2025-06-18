@@ -28,5 +28,9 @@ namespace ERPServer.Infrastructure.Context
             builder.Ignore<IdentityUserRole<Guid>>();
             builder.Ignore<IdentityUserClaim<Guid>>();
         }
+
+        public DbSet<Recipe> Recipes { get; set; } = null!;
+
+        public DbSet<RecipeDetail> RecipeDetails { get; set; } = null!;
     }
 }
