@@ -10,27 +10,28 @@ import { Error } from './error';
 })
 export class Http {
 
-  constructor(
-    private http : HttpClient,
-    private auth : Auth,
-    private error : Error
+   constructor(
+    private http: HttpClient,
+    private auth: Auth,
+    private error: Error  
   ) { }
 
-
-  post<T>(apiUrl: string, body : string, callBack:(res : T) => void, errorCallBack? : () => void) {
-    this.http.post<ResultModel<T>>(`${api}/${apiUrl}`, body,{
+  post<T>(apiUrl:string, body:any, callBack:(res:T)=> void,errorCallBack?:()=> void ){
+    this.http.post<ResultModel<T>>(`${api}/${apiUrl}`,body,{
       headers: {
         "Authorization": "Bearer " + this.auth.token,
+        "Content-Type": "application/json"
       }
     }).subscribe({
-      next:(res) => {
-        if(res.data) {
+      next: (res)=> {
+        if(res.data){
           callBack(res.data);
-        }
+        }        
       },
-      error:(err : HttpErrorResponse) => {
+      error: (err:HttpErrorResponse)=> {
         this.error.errorHandler(err);
-        if (errorCallBack) {
+        
+        if(errorCallBack){
           errorCallBack();
         }
       }

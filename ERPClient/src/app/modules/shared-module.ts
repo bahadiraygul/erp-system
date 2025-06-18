@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { Blank } from '../components/blank/blank';
 import { Section } from '../components/section/section';
 import { FormsModule } from '@angular/forms';
+import { FormValidateDirective } from 'form-validate-angular';
 
 
 
@@ -11,13 +12,15 @@ import { FormsModule } from '@angular/forms';
   imports: [
     Blank,Section,
     CommonModule,
-    FormsModule
+    FormsModule,
+    FormValidateDirective
   ],
   exports: [
     Blank,
     Section,
     CommonModule,
-    FormsModule
+    FormsModule,
+    FormValidateDirective
   ], 
 })
 export class SharedModule { }
