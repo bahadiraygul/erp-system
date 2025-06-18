@@ -3,6 +3,7 @@ import { Injectable } from '@angular/core';
 import { api } from '../constans';
 import { ResultModel } from '../models/result.model';
 import { Auth } from './auth';
+import { Error } from './error';
 
 @Injectable({
   providedIn: 'root'
@@ -11,7 +12,8 @@ export class Http {
 
   constructor(
     private http : HttpClient,
-    private auth : Auth
+    private auth : Auth,
+    private error : Error
   ) { }
 
 
@@ -27,6 +29,7 @@ export class Http {
         }
       },
       error:(err : HttpErrorResponse) => {
+        this.error.errorHandler(err);
         if (errorCallBack) {
           errorCallBack();
         }
