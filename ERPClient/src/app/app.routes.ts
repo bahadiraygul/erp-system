@@ -5,6 +5,7 @@ import { Home } from './components/home/home';
 import { inject } from '@angular/core';
 import { Auth } from './services/auth';
 import { Customers } from './components/customers/customers';
+import { Depots } from './components/depots/depots';
 
 export const routes: Routes = [
     {
@@ -23,6 +24,10 @@ export const routes: Routes = [
             {
                 path : "customers",
                 component: Customers
+            },
+            {
+                path: 'depots',
+                component: Depots
             }
         ]
     }   
